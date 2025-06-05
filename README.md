@@ -3,7 +3,7 @@
 I'm [ADHIL E], a Machine Learning Engineer passionate about building intelligent systems and leveraging data-driven approaches to solve real-world problems. Welcome to my GitHub profile!
 
 ## About Me
-- 💼 Currently working as a Machine Learning Engineer
+- 💼 Currently working as a Python Developer
 - 🎓 M.Sc. in Computer Science
 - 🌱 Constantly learning and exploring new techniques and technologies in the field of AI and ML
 - 
